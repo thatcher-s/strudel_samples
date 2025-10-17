@@ -1,8 +1,8 @@
 {
   "_base": "https://github.com/thatcher-s/strudel_samples/tree/want_u",
-  "want_u": "samples/BT0Adidnt_know_cm_150bpm.wav",
-  "riser_long_noise": "samples/DS_PDH_fx_riser_one_shot_lime_noise_long.wav",
-  "riser_short_noise": "samples/STCR2_NAH_110_Kit_One_Shot_Stress_Revers_Crash.wav",
-  "riser_long_tone": "samples/SS_DC_175_fx_nasty_rise_up_bpm_sync.wav",
-  "vox_fx": "samples/Careless_Synth_and_Vox_5A.wav"
+  "want_u": "BT0Adidnt_know_cm_150bpm.wav",
+  "riser_long_noise": "DS_PDH_fx_riser_one_shot_lime_noise_long.wav",
+  "riser_short_noise": "STCR2_NAH_110_Kit_One_Shot_Stress_Revers_Crash.wav",
+  "riser_long_tone": "SS_DC_175_fx_nasty_rise_up_bpm_sync.wav",
+  "vox_fx": "Careless_Synth_and_Vox_5A.wav"
 }
